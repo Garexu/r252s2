@@ -364,7 +364,7 @@ local function getObjGen()
             Gui.Selection.Name = "Selection"
             Gui.Selection.Parent = Gui.Checkbox
             Gui.Selection.AnchorPoint = Vector2.new(0.5, 0.5)
-            Gui.Selection.BackgroundColor3 = Color3.fromRGB(83, 87, 158)
+            Gui.Selection.BackgroundColor3 = Color3.fromRGB(39, 94, 190)
             Gui.Selection.BackgroundTransparency = 1.000
             Gui.Selection.BorderSizePixel = 0
             Gui.Selection.Position = UDim2.new(0.5, 0, 0.5, 0)
